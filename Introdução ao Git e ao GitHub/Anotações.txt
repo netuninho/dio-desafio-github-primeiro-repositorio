@@ -4,7 +4,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 Quando lidamos com terminal sempre colocamos o nome do programa na frente do comando.
 
-##Comandos: 
+Comandos: 
 git init: inicia o repositório 
 git add: inicia o versionamento
 git commit: cria o commit
@@ -12,7 +12,7 @@ git status: informa os status da pasta
 git clone: cria uma cópia de um repositório
 git remote -v: lista os conteúdos do repositório
 
-##Atualizando um Projeto no GitHub
+Atualizando um Projeto no GitHub
 git add .
 git commit -m "..."
 git push -u origin main/master
