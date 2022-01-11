@@ -15,5 +15,6 @@ git remote -v: lista os conteúdos do repositório
 Atualizando um Projeto no GitHub
 git add .
 git commit -m "..."
-git push -u origin main/master
+git pull origin main/master
+git push origin main/master
 
